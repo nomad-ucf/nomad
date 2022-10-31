@@ -13,9 +13,11 @@ This is a project type B game codenamed as Nomad. Nomad is a game with style ins
 The player will begin at the edge of a canyon they seemingly cannot cross. The explorable world waits just behind them. Also behind them is a broken and unusable vehicle. The player must find and return missing pieces of their vehicle to repair it. On completion of repairs the player will be able to drive their sick new ride.<br>
 
 The win condition occurs when the player crosses the canyon using a fully repaired vehicle. 
-Feature List (Detailed description of each feature)
 
-#### World 
+
+## Feature List (Detailed description of each feature)
+
+### World 
 
 - Modeling 
 - Map Model (Tye)
@@ -30,7 +32,7 @@ Feature List (Detailed description of each feature)
   - Toon Shader
   - Nice to Have: Edge Detection
 
-#### Character (Tye)
+### Character (Tye)
 - Logic 
   - Movement 
     - Nice to Have: Additional movements like jump, crouch, or dive add more immersion and possibilities for traversal but are not necessary for the vision of this game.
@@ -44,7 +46,7 @@ Feature List (Detailed description of each feature)
 - Modeling 
   - Character Model
 
-#### Vehicle (Braedon) 
+### Vehicle (Braedon) 
 - Logic 
   - Movement 
   - Dust Cloud 
